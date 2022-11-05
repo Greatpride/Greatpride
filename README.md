@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Gridepride"><img src="itemPic.jpeg" alt="Greatpride Banner"></a>
+  <a href="https://github.com/Gridepride"><img src="itemPic.jpeg" alt="Greatpride Banner" style="width:200px;height:auto“></a>
 </p>
 
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
